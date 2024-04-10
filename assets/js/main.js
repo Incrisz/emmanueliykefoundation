@@ -465,7 +465,7 @@ $('.chart').easyPieChart({
 });
 //progress-bar
 $('.chart2').easyPieChart({
-	barColor:'#f15b43',
+	barColor:'#F58634',
 	trackColor:'#e3e3e3',
 	lineWidth:7,
 	lineCap:'square',
