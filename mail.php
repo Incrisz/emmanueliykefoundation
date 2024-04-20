@@ -39,6 +39,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Send email
     if(mail($to, $subject, $message)) {
         echo "Message sent successfully!";
+         // Redirect back to emmanueliykefoundation.org after 5 seconds
+        echo '<meta http-equiv="refresh" content="5;url=https://emmanueliykefoundation.org">';
     } else {
         echo "Failed to send message.";
     }
