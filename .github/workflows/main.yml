@@ -3,7 +3,7 @@ on:
   push :
     branches:
       - main
-name: 🚀 Deploy website on push to Meritcare
+name: 🚀 Deploy website on push to Emma
 jobs:
   web-deploy:
     name: 🎉 Deploy
