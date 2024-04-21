@@ -16,7 +16,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $skills = $_POST['skills'];
 
     // Email address to send the form data
-    $to = "incrisz4luv@gmail.com";
+    $to = "emmanueliykefoundation@gmail.com";
     $subject = "Application Form Submission";
 
     // Email message
