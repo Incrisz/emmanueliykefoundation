@@ -155,11 +155,11 @@ li {
 }
 
 p {
-  font-size: 15px;
-  font-weight: 400;
+  font-size: 25px;
+  font-weight: 600;
   line-height: 28px;
   font-family: "Karla", sans-serif;
-  color: #777777;
+  color: red;
   margin-bottom: 0;
 }
 
